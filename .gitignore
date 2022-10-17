@@ -11,11 +11,9 @@ output
 !output/.gitkeep
 build
 
-.classpath
 
 .project
 /bin/
 /Libs/
-/.settings/
-/.classpath
+
 .svn/
